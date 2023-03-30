@@ -1,0 +1,15 @@
+C:\Users\Alexandre Boileau\MyVsCodeProject\MyAppProject\bin\Debug\net7.0\MyAppProject.exe
+C:\Users\Alexandre Boileau\MyVsCodeProject\MyAppProject\bin\Debug\net7.0\MyAppProject.deps.json
+C:\Users\Alexandre Boileau\MyVsCodeProject\MyAppProject\bin\Debug\net7.0\MyAppProject.runtimeconfig.json
+C:\Users\Alexandre Boileau\MyVsCodeProject\MyAppProject\bin\Debug\net7.0\MyAppProject.dll
+C:\Users\Alexandre Boileau\MyVsCodeProject\MyAppProject\bin\Debug\net7.0\MyAppProject.pdb
+C:\Users\Alexandre Boileau\MyVsCodeProject\MyAppProject\obj\Debug\net7.0\MyAppProject.csproj.AssemblyReference.cache
+C:\Users\Alexandre Boileau\MyVsCodeProject\MyAppProject\obj\Debug\net7.0\MyAppProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre Boileau\MyVsCodeProject\MyAppProject\obj\Debug\net7.0\MyAppProject.AssemblyInfoInputs.cache
+C:\Users\Alexandre Boileau\MyVsCodeProject\MyAppProject\obj\Debug\net7.0\MyAppProject.AssemblyInfo.cs
+C:\Users\Alexandre Boileau\MyVsCodeProject\MyAppProject\obj\Debug\net7.0\MyAppProject.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Boileau\MyVsCodeProject\MyAppProject\obj\Debug\net7.0\MyAppProject.dll
+C:\Users\Alexandre Boileau\MyVsCodeProject\MyAppProject\obj\Debug\net7.0\refint\MyAppProject.dll
+C:\Users\Alexandre Boileau\MyVsCodeProject\MyAppProject\obj\Debug\net7.0\MyAppProject.pdb
+C:\Users\Alexandre Boileau\MyVsCodeProject\MyAppProject\obj\Debug\net7.0\MyAppProject.genruntimeconfig.cache
+C:\Users\Alexandre Boileau\MyVsCodeProject\MyAppProject\obj\Debug\net7.0\ref\MyAppProject.dll
